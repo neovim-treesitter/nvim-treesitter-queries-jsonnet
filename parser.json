@@ -1,8 +1,7 @@
 {
   "location": null,
-  "min_version": null,
+  "lang": "jsonnet",
   "url": "https://github.com/sourcegraph/tree-sitter-jsonnet",
   "semver": false,
-  "lang": "jsonnet",
-  "max_version": null
+  "parser_version": "ddd075f1939aed8147b7aa67f042eda3fce22790"
 }
